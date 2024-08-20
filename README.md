@@ -2,7 +2,7 @@
 
 ###
 
-### Hi there, I'm Barış Karakuş 👋
+### Hi there, I'm Barış  👋
 
 
 
