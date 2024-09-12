@@ -58,6 +58,9 @@ As being one of the most passionate guy you will see in the industry, he literal
   <img src="https://skillicons.dev/icons?i=mongodb" height="70" alt="mongodb logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="70" alt="sqlite logo"  />
+  <img width="15" />
+  <img src="https://avatars.githubusercontent.com/u/6764390?s=200&v=4" height="70" alt="elasticsearch logo"  />
+  
 </div>
 
 ###
@@ -81,6 +84,8 @@ As being one of the most passionate guy you will see in the industry, he literal
   <img src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4" height="70" alt="express logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" height="70" alt="rabbitmq"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original.svg" height="70" alt="nodewebkit logo"  />
   <img width="15" />
