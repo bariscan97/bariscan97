@@ -87,9 +87,7 @@ As being one of the most passionate guy you will see in the industry, he literal
   <img width="15" />
   <img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" height="70" alt="rabbitmq"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original.svg" height="70" alt="nodewebkit logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="70" alt="socketio logo"  />
+  <img src="https://avatars.githubusercontent.com/u/10566080?s=48&v=4" height="70" alt="socketio logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="react logo"  />
   <img width="15" />
