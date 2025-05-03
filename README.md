@@ -45,8 +45,6 @@ As being one of the most passionate guy you will see in the industry, he literal
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="70" alt="mongodb logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="70" alt="sqlite logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs logo"  />
   <img width="15" />
   <img src="https://camo.githubusercontent.com/730a0a9e66324217b2e8ff154f30413d4d6480f88804376b1d7ee0b805fc318a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7261626269746d712f7261626269746d712d617232312e737667" height="70" alt="rabbitmq"  />
