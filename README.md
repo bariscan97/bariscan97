@@ -16,7 +16,7 @@ As being one of the most passionate guy you will see in the industry, he literal
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on golang and node.js
-- 🚀 I’m currently learning Microservices and grpc
+- 🚀 I’m currently learning Microservices and k8s
 - 📝 I regulary code on [Leetcode](https://leetcode.com/Bariscan97/)
 - 📫 How to reach me: bariscan0697@gmail.com
 
