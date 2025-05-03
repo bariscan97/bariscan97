@@ -24,7 +24,7 @@ As being one of the most passionate guy you will see in the industry, he literal
 
 ###
 
-<h1 align="center">Languages</h1>
+<h1 align="center">💻 Tech Stack</h1>
 
 ###
 
@@ -37,18 +37,6 @@ As being one of the most passionate guy you will see in the industry, he literal
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
   <img width="15" />
-  
-
-</div>
-
-###
-
-<h1 align="center">Database</h1>
-
-###
-
-<div align="center">
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="70" alt="postgresql logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="70" alt="mysql logo"  />
@@ -60,17 +48,6 @@ As being one of the most passionate guy you will see in the industry, he literal
   <img src="https://skillicons.dev/icons?i=sqlite" height="70" alt="sqlite logo"  />
   <img width="15" />
   <img src="https://avatars.githubusercontent.com/u/6764390?s=200&v=4" height="70" alt="elasticsearch logo"  />
-  
-</div>
-
-###
-
-<h1 align="center">Tools and Frameworks</h1>
-
-###
-
-<div align="center">
-  
   <img src="https://avatars.githubusercontent.com/u/7894478?s=200&v=4" height="90" alt="javascript logo"  />
   <img width="15" />
   <img src="https://avatars.githubusercontent.com/u/2624634?s=200&v=4" height="90" alt="javascript logo"  />
