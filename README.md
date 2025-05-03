@@ -53,7 +53,7 @@ As being one of the most passionate guy you will see in the industry, he literal
   <img width="15" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="70" alt="mysql logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="70" alt="redis logo"  />
+  <img src="https://camo.githubusercontent.com/8df8ab76635981e150b2b1050e3b20dc9fd3e967dea6b2a40120abac9a62ae82/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656469732f72656469732d617232312e737667" height="70" alt="redis logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="70" alt="mongodb logo"  />
   <img width="15" />
