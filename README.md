@@ -41,7 +41,7 @@ As being one of the most passionate guy you will see in the industry, he literal
   <img width="18" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
   <img width="18" />
-  <img src="https://avatars.githubusercontent.com/u/14364730?s=200&v=4" height="60" alt="mysql logo"  />
+  <img src="https://avatars.githubusercontent.com/u/14364730?s=200&v=4" height="80" alt="scylladb logo"  />
   <img width="18" />
   <img src="https://camo.githubusercontent.com/8df8ab76635981e150b2b1050e3b20dc9fd3e967dea6b2a40120abac9a62ae82/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656469732f72656469732d617232312e737667" height="60" alt="redis logo"  />
   <img width="18" />
