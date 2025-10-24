@@ -28,7 +28,7 @@ As being one of the most passionate guy you will see in the industry, he literal
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="60" alt="go logo"  />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="60" alt="go logo"/>
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="18" />
