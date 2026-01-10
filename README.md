@@ -52,9 +52,7 @@ As being one of the most passionate guy you will see in the industry, he literal
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="18" />
-  <img src="https://camo.githubusercontent.com/730a0a9e66324217b2e8ff154f30413d4d6480f88804376b1d7ee0b805fc318a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7261626269746d712f7261626269746d712d617232312e737667" height="60" alt="rabbitmq logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="120" height="60" alt="image" src="https://github.com/user-attachments/assets/69af2a31-b9d0-46e4-ab8c-845f7397f5a8" />
   <img width="18" />
   <img src="https://camo.githubusercontent.com/d1b5f06918a95eca6e663dea4820a486bd5f7bf6ec72bb836c28f26d4c517602/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d617232312e737667" height="80" alt="docker logo"  />
   <img width="18" />
