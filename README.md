@@ -36,7 +36,7 @@ As being one of the most passionate guy you will see in the industry, he literal
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="18" />
-  <img src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" height="60" alt="grpc logo"  />
+  <img src="https://github.com/user-attachments/assets/d453d7cd-1905-4d1d-9f14-b3bf3793f68" height="60" alt="grpc logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
   <img width="18" />
