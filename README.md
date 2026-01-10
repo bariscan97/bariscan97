@@ -22,6 +22,7 @@ As being one of the most passionate guy you will see in the industry, he literal
 
 
 
+
 ###
 
 <h1 align="center">💻 Tech Stack</h1>
@@ -43,7 +44,7 @@ As being one of the most passionate guy you will see in the industry, he literal
   <img width="18" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
   <img width="18" />
-  <img height="60" alt="image" src="https://github.com/user-attachments/assets/395e13d6-e08b-4e67-a10d-90df5cffbba0" />
+  <img  height="60" alt="image" src="https://github.com/user-attachments/assets/5f53926e-aa73-48c8-8d89-ab42d42d7c4f" />
   <img width="18" />
   <img src="https://avatars.githubusercontent.com/u/14364730?s=200&v=4" height="80" alt="scylladb logo"  />
   <img width="18" />
