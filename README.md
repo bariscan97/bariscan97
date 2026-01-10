@@ -37,7 +37,7 @@ As being one of the most passionate guy you will see in the industry, he literal
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="18" />
-  <img width="3968" height="1734" alt="image" src="https://github.com/user-attachments/assets/395e13d6-e08b-4e67-a10d-90df5cffbba0" />
+  <img height="60" alt="image" src="https://github.com/user-attachments/assets/395e13d6-e08b-4e67-a10d-90df5cffbba0" />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
   <img width="18" />
