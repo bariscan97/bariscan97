@@ -56,7 +56,7 @@ As being one of the most passionate guy you will see in the industry, he literal
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="18" />
-  <img src="https://camo.githubusercontent.com/d1b5f06918a95eca6e663dea4820a486bd5f7bf6ec72bb836c28f26d4c517602/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d617232312e737667" height="60" alt="docker logo"  />
+  <img src="https://camo.githubusercontent.com/d1b5f06918a95eca6e663dea4820a486bd5f7bf6ec72bb836c28f26d4c517602/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d617232312e737667" height="80" alt="docker logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
 </div>
